@@ -1,0 +1,33 @@
+.cover1 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("computer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .cover2 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("diploma.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .cover3 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("high-school.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }

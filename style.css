@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
+  background-image: url("cyber.jpg");
+}
+
+header {
+  width: 100%;
+  margin-bottom: 25px;
+  background-color: #fff;
+  border-bottom: 2px solid black;
+}
+
+h2{
+  color: #4aaaa5;
+  padding-bottom: 6px;
+}   
+
+hr {
+  border-bottom: 3px solid #ccc;
+}
+
+/**nav {
+  background-color: white;
+  margin: 0 auto;
+  width: 960px;
+}
+
+.navbar {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  overflow: hidden;
+  background-color: white;
+}
+
+.navbar a {
+  float: right;
+  color: #777777;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.navbar a:hover {
+  background-color: #4aaaa5;
+  color: #777777
+}
+
+.navbar a.active {
+  background-color: #4aaaa5;
+  color: #e0d9d9
+}
+
+.centerNav {
+  margin: auto;
+  background-color: white;
+  padding: 19px 0px 22px 0px;
+}
+
+.center {
+  margin: auto;
+  width: 960px;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ddd;
+  padding: 18px;
+}**/
+
+div.lineHt {
+  font-size: 14px;
+  line-height: 1.8;
+  margin-bottom: 25px;
+}
+
+p.clear {
+  clear: both;
+}
+
+.nameBox {
+  background-color: #4aaaa5;
+  float: left;
+  color: #e0d9d9;
+  text-align: center;
+  font-weight: bold;
+  padding: 29px 12px 28px 8px;
+  margin-top: 0;
+  margin-left: -8px;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+input {
+  width: 98%;
+  height: 20px;
+  padding-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+textarea {
+  margin-top: 5px;
+}
+
+input.submit {
+  color: #fff;
+  margin: 10px;
+  padding: 2px 10px;
+  background-color: #4aaaa5;
+  height: 35px;
+  width: 65px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 35px;
+  border-top: 6px solid #4aaaa5;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
+
+/* .footerSticky {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 35px;
+  border-top: 6px solid #4aaaa5;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  margin-top: 25px;
+} */
+
+.bottom {
+  vertical-align: text-bottom;
+  bottom: 0;
+}
+
+/* .cover1 { 
+  display: inline-block;
+  width: 225px;
+  height: 225px;
+  margin: 10px 0px 10px 0px;
+  padding: 25px; 
+  background-image: url("/assets/images/TGavatar.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+} */
+
+h4 {
+  font-family: 'Monospace', 'Times New Roman', Times, serif;
+  font-size: 20px;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  color: white;
+  background-color: #4aaaa5;
+  width: 100%;
+  text-align: center;
+  padding: 14px 0px;
+ 
+}
